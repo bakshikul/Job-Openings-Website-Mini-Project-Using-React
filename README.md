@@ -30,13 +30,13 @@
 ├── package.json<br>
 ├── vite.config.js<br>
 └── README.md</p>
-<h2>Installation</h2>
+<h2>🚀Installation</h2>
 <ol>
-  <li>Clone the repository: </li>
+  <li>Clone the repository:https://github.com/bakshikul/Job-Openings-Website-Mini-Project-Using-React.git </li>
   <li>Navigate into the project directory: Mini_Project_1</li>
   <li>Install dependencies: npm install</li>
 </ol>
-<h2>Running the Development Server</h2>
+<h2>🚀Running the Development Server</h2>
 <ol>
   <li>Start the development server: npm run dev</li>
 </ol>
