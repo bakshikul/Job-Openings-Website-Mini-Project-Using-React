@@ -1,1 +1,0 @@
-# Job-Openings-Website-Mini-Project-Using-React

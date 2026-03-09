@@ -1,0 +1,115 @@
+*{
+  margin:0px;
+  padding:0px;
+  font-family: 'Times New Roman', Times, serif;
+}
+body{
+  background-color: black;
+}
+.Card1{
+  height:400px;
+  width:400px;
+  border:1px solid black;
+  border-radius: 25px;
+  background-color: #ffffff;
+}
+.Card1 img{
+  height:70px;
+  width:70px;
+  border:2px solid black;
+  border-radius:50%;
+  object-fit: cover;
+  margin:20px 0px 0px 30px;
+}
+.Card1 h1{
+  color:rgb(0, 0, 0);
+  font-size:2rem;
+  gap:10px;
+  font-weight: 800;
+  margin-left:20px;
+}
+.Card1 h2{
+  color:black;
+  font-size:1.1rem;
+  font-weight: 700;
+  gap:10px;
+  margin-left:20px;
+}
+.Level1{
+  display:flex;
+  flex-wrap:wrap;
+  gap:5px;
+  text-align: center;
+  align-items: center;
+}
+.Level1 .lv1{
+  color:black;
+  background-color: #a3adbe;
+  width:90px;
+  border-radius: 5px;
+  margin:20px;
+  text-align: center;
+}
+.Level1 .lv2{
+  color:black;
+  background-color: #a3adbe;
+  width:120px;
+  border-radius: 5px;
+  margin:20px;
+  text-align: center;
+}
+.End1{
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top : 110px;
+  font-weight: 100;
+  border-top:1px solid rgb(83, 80, 80);
+}
+.End1 button{
+  font-size: 1.2rem;
+  background-color: black;
+  color: white;
+  margin:10px 30px 0px 0px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: 200;
+  border:2px solid black;
+}
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.top p{
+  font-size: 1.5rem;
+  color: grey;
+  height :30px;
+  width: 100px;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  text-align: center;
+  border:1px solid white;
+  margin-right: 50px;
+}
+span{
+  font-size: 0.8rem;
+  color: grey;
+  margin-left: 5px;
+}
+.Card1 .sp1{
+  font-size: 0.8rem;
+  color: grey;
+  margin-left: 20px;
+}
+.Parent{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  height:100vh;
+  width:100%;
+  gap:20px;
+  padding:30px;
+
+}
